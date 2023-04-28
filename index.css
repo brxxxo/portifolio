@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;   
+}
+
+h1 { font-size: 3vw;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding-top: 200px;
+    padding-left: 400px;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-left: 400px;
+}
+
+.redes-sociais {
+margin-top: 1rem;
+display: flex;
+padding-left: 400px;
+}
+
+.redes-sociais a {
+text-decoration: none;
+color: rgb(24, 22, 22);
+padding: 1rem 4rem;
+border: 1px solid rgb(24, 22, 22);
+min-width: 4rem;
+display: flex;
+align-items: center;
+justify-content: center;
+transition: .5s ease-in-out;
+
+}
+
+.topnav {
+    background-color: rgb(25, 25, 90);
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+    
+.topnav a:hover {
+        background-color: #ddd;
+        color: black;
+
+}
+
+.topnav a.active {
+    background-color: grey;
+    color: white;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+  }
+
+.background {
+    background-color:rgb(226, 217, 217);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    padding: 0px;
+    position: relative;
+}
+
+.tituloport {
+    padding-top: 35px;
+    color: white;
+}
+
+.titulocontat {
+    padding-top: 35px;
+    color: white;
+}
+
+.telefon {
+    color: white;
+    padding-top: 200px;
+    font-size:xx-large;
+    padding-left: 400px;
+}
+.insta {
+    color: white;
+    padding-left: 400px;
+}
+
+.container{
+    color: black;
+}
+
+.textoport {
+    color: white;
+    padding-top: 200px;
+    font-size: xx-large;
+    padding-left: 400px;
+}
+
+.html.css {
+    color: white;
+    padding-top: 200px;
+    font-size: xx-large;
+    padding-left: 400px;
+}
